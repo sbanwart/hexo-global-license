@@ -34,6 +34,7 @@ Custom
 ```toml
 licenseType: custom
 customLicense: <div>My custom license text.</div>
+```
 
 ## License
 
