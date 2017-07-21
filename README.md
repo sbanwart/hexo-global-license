@@ -4,7 +4,7 @@
 A generator for Hexo that adds a license statement to every page. It natively 
 supports [Creative Commons v4.0](https://creativecommons.org/) or a custom license template.
 
-[![Downloads](https://img.shields.io/npm/dm/hexo-global-license.svg)](https://www.npmjs.com/package/hexo-global-license [![npm](https://img.shields.io/npm/v/hexo-global-license.svg)](https://www.npmjs.com/package/hexo-global-license) [![LICENSE](https://img.shields.io/npm/l/hexo-global-license.svg)](LICENSE)
+[![Downloads](https://img.shields.io/npm/dm/hexo-global-license.svg)](https://www.npmjs.com/package/hexo-global-license) [![npm](https://img.shields.io/npm/v/hexo-global-license.svg)](https://www.npmjs.com/package/hexo-global-license) [![LICENSE](https://img.shields.io/npm/l/hexo-global-license.svg)](LICENSE)
 
 ## Installation
 
