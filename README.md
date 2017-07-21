@@ -14,8 +14,10 @@ npm install hexo-global-license
 
 ## Usage
 
+* Add the global license helper to your theme template
+    * <%- globalLicense(config) %>
 * Add settings to the Hexo configuration file
-    * licenseType: Specify the type of Creative Commons license, or custom.
+    * licenseType: Specify the type of Creative Commons license, or custom
         * by: CC Attribution
         * by-nd: CC Attribution-NoDerivatives
         * by-sa: CC Attribution-ShareAlike
@@ -23,16 +25,21 @@ npm install hexo-global-license
         * by-nc-nd: CC Attribution-NonCommercial-NoDerivatives
         * by-nc-sa: CC Attribution-NonCommercial-ShareAlike
         * custom: Specify your own custom license HTML
+    * licenseIconSize: Specify the size of the Creative Commons image
+        * normal
+        * small
+    * customLicense: The markup and text of a custom license statement; only 
+                     needed when licenseType is set to 'custom'
 
 ### Examples
 
-Creative Commons
+**Creative Commons**
 ```toml
 licenseType: by-sa
 licenseIconSize: normal
 ```
 
-Custom
+**Custom**
 ```toml
 licenseType: custom
 customLicense: <div>My custom license text.</div>
