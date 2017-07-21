@@ -8,7 +8,7 @@ A generator for the [Hexo](https://hexo.io/) static site generator that adds a l
 ## Installation
 
 ```
-npm install hexo-global-license
+npm install --save hexo-global-license
 ```
 
 ## Usage
