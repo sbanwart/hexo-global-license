@@ -1,6 +1,6 @@
 {
   "name": "hexo-global-license",
-  "version": "0.5.2",
+  "version": "0.5.5",
   "description": "A generator for adding a license statement to every page.",
   "main": "index.js",
   "scripts": {
