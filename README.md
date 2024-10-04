@@ -1,6 +1,8 @@
 # hexo-global-license
 ---------------------
 
+**This repository is no longer being maintained. I am no longer using Hexo, hence I don't have a need for this generator.**
+
 A generator for the [Hexo](https://hexo.io/) static site generator that adds a license statement to every page. It natively supports [Creative Commons v4.0](https://creativecommons.org/) or a custom license template.
 
 [![Downloads](https://img.shields.io/npm/dm/hexo-global-license.svg)](https://www.npmjs.com/package/hexo-global-license) [![npm](https://img.shields.io/npm/v/hexo-global-license.svg)](https://www.npmjs.com/package/hexo-global-license) [![LICENSE](https://img.shields.io/npm/l/hexo-global-license.svg)](LICENSE)
